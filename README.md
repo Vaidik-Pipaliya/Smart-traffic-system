@@ -159,5 +159,5 @@ Distributed under the MIT License. See `LICENSE` for more details.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Deepmind Antigravity Pair-Programming Assistant</sub>
+  <sub>Stay Tuned... </sub>
 </div>
